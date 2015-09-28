@@ -6,7 +6,7 @@ import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
 @Cucumber.Options(
-		features = "src/test/resource"
+		features = "/Users/yuvarajilangovan/git/MavenCucumberPrototype/src/test/resource/features/"
 		)
 public class RunnerTest {
 
